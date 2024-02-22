@@ -13,3 +13,5 @@ Sir Sadaqat Ali agreed to supervise our project.
 But idea needs to be finalised. 
 We have to add more modules if want to stick to same idea.
 Created Account on Github and COLAB.
+Discussed new fyp idea with Sir Sadaqat Ali. 
+New idea is Automated Metrobus Ticketing System.
